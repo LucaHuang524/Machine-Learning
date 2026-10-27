@@ -24,10 +24,6 @@ Each folder has its own notes and code. New folders are added as I take on new t
 - **Language models:** tokenization, attention, transformers, GPT
 - **Research project:** extending a small GPT's memory beyond its context window (memory tokens, recurrent memory, or retrieval) and measuring the result against a baseline
 
-## Tools
-
-Python, NumPy, PyTorch, Jupyter
-
 ## Author
 
 Luca Huang
