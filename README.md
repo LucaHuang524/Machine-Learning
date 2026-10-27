@@ -28,13 +28,6 @@ Each folder has its own notes and code. New folders are added as I take on new t
 
 Python, NumPy, PyTorch, Jupyter
 
-## Resources
-
-- [Neural Networks: Zero to Hero](https://karpathy.ai/zero-to-hero.html) by Andrej Karpathy
-- [nanoGPT](https://github.com/karpathy/nanoGPT)
-- *Attention Is All You Need* (Vaswani et al., 2017)
-- 3Blue1Brown, *Essence of Linear Algebra* and *Essence of Calculus*
-
 ## Author
 
 Luca Huang
