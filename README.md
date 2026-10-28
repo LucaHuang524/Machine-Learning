@@ -4,7 +4,7 @@ Everything I build and learn in machine learning, from the fundamentals to my ow
 
 ## About
 
-This repo tracks my path through ML: the math behind it, classic algorithms, neural networks, and language models. The long-term goal is to build a GPT-style transformer from scratch, modify how it handles memory, and test whether the change actually helps.
+Machine Learning
 
 ## Structure
 
