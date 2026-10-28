@@ -1,29 +1,18 @@
 # Machine Learning
 
-Everything I build and learn in machine learning, from the fundamentals to my own models and experiments.
+My machine learning work: course notebooks and notes now, my own models later.
 
-## About
-
-Machine Learning
-
-## Structure
+## What's here
 
 ```
-zero-to-hero/   Andrej Karpathy's "Neural Networks: Zero to Hero" course
-math/           Linear algebra, calculus and probability notes and exercises
-projects/       My own models and experiments
+Neural Networks Zero To Hero/
+  0.1 micrograd/   A small autograd engine: a Value class, backprop, and a graph visualisation
 ```
 
-Each folder has its own notes and code. New folders are added as I take on new topics.
+New folders get added as I go.
 
-## Topics
+## Plan
 
-- **Math foundations:** vectors and matrices, derivatives and the chain rule, probability and statistics
-- **Classic ML:** regression, classification, decision trees, clustering
-- **Neural networks:** backpropagation, training, optimization
-- **Language models:** tokenization, attention, transformers, GPT
-- **Research project:** extending a small GPT's memory beyond its context window (memory tokens, recurrent memory, or retrieval) and measuring the result against a baseline
-
-## Author
-
-Luca Huang
+- Finish Andrej Karpathy's *Neural Networks: Zero to Hero* (micrograd, makemore, then GPT)
+- Fill in the maths alongside it: linear algebra, calculus, probability
+- Build a small GPT, then try extending its memory past the context window and compare it against a baseline
